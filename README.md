@@ -1,0 +1,2 @@
+# SpringBootJpaL2CacheNonStrictReadWrite
+SpringBootJpaL2CacheNonStrictReadWrite
